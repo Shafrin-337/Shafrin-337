@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Machine learning
 - 🌱 I’m currently learning Data analysis
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/shafrin-samin-b50ab51a1/
 
 <!---
 Shafrin-337/Shafrin-337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
